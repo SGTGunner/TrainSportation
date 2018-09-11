@@ -47,3 +47,5 @@ Citizen.CreateThread(function()
   end
 end)
 ```
+
+https://forum.fivem.net/t/release-trainsportation-drive-be-a-passenger-in-a-train/52179
